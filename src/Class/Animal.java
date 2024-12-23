@@ -5,7 +5,7 @@ public class Animal {
     protected int age;
     public Animal()
     {
-        this.name="没有名字的动物";
+        this.name="没有名字的动物2";
         this.age=10;
     }
    public Animal(String name,int age)
