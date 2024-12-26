@@ -13,6 +13,6 @@ public class ObjectStudy {
          *两个对象的name同为String类型，且都为“tom”，引用的同一个缓存池对象
          */
 
-System.out.println(p1);
+System.out.println(p1.toString());
     }
 }
