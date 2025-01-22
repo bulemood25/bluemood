@@ -6,6 +6,7 @@ public class AbstractStudy {
     {
 
 System.out.println("Hello");
+System.out.println("World");
     }
 
 }
